@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6iQfJfgFgRq" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Autodiagnoza_kolorystyczna_mobile</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Autodiagnoza_kolorystyczna_mobile_ORG">
+    <organization identifier="Autodiagnoza_kolorystyczna_mobile_ORG">
+      <title>Autodiagnoza_kolorystyczna_mobile</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__6iQfJfgFgRq_RES">
+        <title>Autodiagnoza_kolorystyczna_mobile</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6iQfJfgFgRq_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/66H4r4QxSei.png" />
+      <file href="mobile/6hyiloQue0p.png" />
+      <file href="mobile/6lcFfoQIOOJ.png" />
+      <file href="mobile/5iEJYVwIWNm.png" />
+      <file href="mobile/6afWZmeBv0J.png" />
+      <file href="mobile/5dVRJybJ79H.png" />
+      <file href="mobile/67qQH5KDFQk.png" />
+      <file href="mobile/6PhCfNtkoC0.png" />
+      <file href="mobile/6FSttNlm223.png" />
+      <file href="mobile/5pxBmN5MYR1.png" />
+      <file href="mobile/6kucKE7Zt9g.png" />
+      <file href="mobile/5naqLiMfVq3.png" />
+      <file href="mobile/6ZQB9zIkih3.png" />
+      <file href="mobile/6Gshs8IPHyD.png" />
+      <file href="mobile/5Ytsfg5cJYA.png" />
+      <file href="mobile/6Qmov9LlOHS.png" />
+      <file href="mobile/6hkcV0l5OjB.png" />
+      <file href="mobile/6FUXuWBtufe.png" />
+      <file href="mobile/6m2t8uTd2Ps.png" />
+      <file href="mobile/5ukjsk2Jnfw.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6WKT2YqLohX.jpg" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cxSVkldoqq.js" />
+      <file href="html5/data/js/5iWTsUi6Mn5.js" />
+      <file href="html5/data/js/5xTts6clPkM.js" />
+      <file href="html5/data/js/5Y6T36nYmmy.js" />
+      <file href="html5/data/js/5ZUKdzhrYCG.js" />
+      <file href="html5/data/js/606iDodcfhy.js" />
+      <file href="html5/data/js/61hhILVuva1.js" />
+      <file href="html5/data/js/641dMwCCFlx.js" />
+      <file href="html5/data/js/67SJSq1UbyE.js" />
+      <file href="html5/data/js/6EpnQzZu2yo.js" />
+      <file href="html5/data/js/6ewRLntltOY.js" />
+      <file href="html5/data/js/6F5rkHBXgr6.js" />
+      <file href="html5/data/js/6GKQCTORskp.js" />
+      <file href="html5/data/js/6kVWxyU7Lxl.js" />
+      <file href="html5/data/js/6LHIiHAUWI0.js" />
+      <file href="html5/data/js/6muZvnzMUKX.js" />
+      <file href="html5/data/js/6OMq0VIqRrz.js" />
+      <file href="html5/data/js/6pVrHlODZ0I.js" />
+      <file href="html5/data/js/6W1Wb2Si6u0.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
